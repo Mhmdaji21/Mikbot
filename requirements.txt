@@ -1,3 +1,6 @@
 pyTelegramBotAPI
 routeros-api
 requests
+flask
+pysnmp
+pexpect
